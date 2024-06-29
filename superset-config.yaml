@@ -4,4 +4,4 @@ metadata:
   name: superset-config
 data:
   superset_config.py: |
-    SECRET_KEY = 'tOXGPHfN7RzJ4NShQ18UWiRzkVdcvuN8XA0aALLWL84OAnzkcAT4kBT9'
+    SECRET_KEY = '1WYUZDW9I3a6KYXxVSFsdUj/SftQUECZd8OcXa77s440lLJiDfc7gK9Z'
