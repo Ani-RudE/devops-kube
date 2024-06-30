@@ -77,6 +77,7 @@ Password: `admin`
 11. Navigate to `Data > Databases > + Database`.<br>
 Choose Clickhouse from the dropdown box.
 ![Dropdown Box](img/dropdown-box.png)
+<img width="128" alt="Dropdown Box" src="img/dropdown-box.png">
 
 <br>
 
