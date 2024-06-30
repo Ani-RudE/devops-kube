@@ -61,7 +61,10 @@ kubectl get pods
 ```
 kubectl get services
 ```
-Note the CLUSTER-IP *(10.96.37.117)* of `clickhouse` and its PORT *(8123)*. <br>
+Note the CLUSTER-IP *(10.96.37.117)* of `clickhouse` and its PORT *(8123)*.
+
+<br>
+
 ![Get servies](img/kubectl-get-services.png)
 
 <br>
@@ -83,5 +86,7 @@ Choose Clickhouse from the dropdown box.
 
 <br>
 
-12. Configure ClickHouse Connection by filling in these details:
+12. Configure ClickHouse Connection by filling in these details: <br>
+Enter the earlier noted CLUSTER-IP *(10.96.37.117)* and PORT *(8123)* into the respective fields.
+<br>
 <img width="366" alt="ClickHouse Configuration" src="img/clickhouse-config.png">
