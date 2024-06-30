@@ -17,7 +17,7 @@ spec:
     - name: custom
       protocol: TCP
       port: 9001
-      targetPort: 9001
+      targetPort: 9001kubectl 
 
 # apiVersion: v1
 # kind: PersistentVolumeClaim
