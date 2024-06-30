@@ -92,5 +92,7 @@ Enter the earlier noted CLUSTER-IP *(10.96.37.117)* and PORT *(8123)* into the r
 ## Result
 
 You will encounter a dashboard in Superset.
+
 <br>
-<img width="512" alt="Dropdown Box" src="img/dashboard.png">
+
+<img width="720" alt="Dropdown Box" src="img/dashboard.png">
