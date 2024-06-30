@@ -81,4 +81,4 @@ Choose Clickhouse from the dropdown box.
 <br>
 
 12. Configure ClickHouse Connection by filling in these details:
-<img width=366" alt="ClickHouse Configuration" src="img/clickhouse-config.png">
+<img width="366" alt="ClickHouse Configuration" src="img/clickhouse-config.png">
