@@ -77,9 +77,10 @@ Password: `admin`
 11. Navigate to `Data > Databases > + Database`.<br>
 Choose Clickhouse from the dropdown box.
 ![Dropdown Box](img/dropdown-box.png)
-<img width="512" alt="Dropdown Box" src="img/dropdown-box.png">
+<img width="428" alt="Dropdown Box" src="img/dropdown-box.png">
 
 <br>
 
 12. Configure ClickHouse Connection by filling in these details:
 ![ClickHouse Configuration](img/clickhouse-config.png)
+<img width="428" alt="ClickHouse Configuration" src="img/clickhouse-config.png">
