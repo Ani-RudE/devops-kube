@@ -62,9 +62,7 @@ kubectl get pods
 kubectl get services
 ```
 Note the CLUSTER-IP *(10.96.37.117)* of `clickhouse` and its PORT *(8123)*.
-
 <br>
-
 ![Get servies](img/kubectl-get-services.png)
 
 <br>
