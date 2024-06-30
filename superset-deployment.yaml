@@ -36,22 +36,4 @@ spec:
         configMap:
           name: superset-config
 
-# apiVersion: apps/v1
-# kind: Deployment
-# metadata:
-#   name: superset
-# spec:
-#   replicas: 1
-#   selector:
-#     matchLabels:
-#       app: superset
-#   template:
-#     metadata:
-#       labels:
-#         app: superset
-#     spec:
-#       containers:
-#         - name: superset  
-#           image: apache/superset
-#           ports:
-#             - containerPort: 8088
+#- containerPort: 8088

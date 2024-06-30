@@ -18,14 +18,3 @@ spec:
       protocol: TCP
       port: 9001
       targetPort: 9001kubectl 
-
-# apiVersion: v1
-# kind: PersistentVolumeClaim
-# metadata:
-#   name: clickhouse-pvc
-# spec:
-#   accessModes:
-#     - ReadWriteOnce
-#   resources:
-#     requests:
-#       storage: 10Gi
