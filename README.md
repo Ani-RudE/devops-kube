@@ -88,3 +88,9 @@ Choose Clickhouse from the dropdown box.
 Enter the earlier noted CLUSTER-IP *(10.96.37.117)* and PORT *(8123)* into the respective fields.
 <br>
 <img width="366" alt="ClickHouse Configuration" src="img/clickhouse-config.png">
+
+## Result
+
+You will encounter a dashboard in Superset.
+<br>
+<img width="512" alt="Dropdown Box" src="img/dashboard.png">
